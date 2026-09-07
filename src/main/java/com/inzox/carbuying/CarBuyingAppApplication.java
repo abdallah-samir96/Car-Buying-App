@@ -1,4 +1,4 @@
-package com.inzox.carb.uying.Car.Buying.App;
+package com.inzox.carbuying;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

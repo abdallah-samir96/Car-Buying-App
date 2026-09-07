@@ -1,4 +1,4 @@
-package com.inzox.carb.uying.Car.Buying.App;
+package com.inzox.carbuying;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
